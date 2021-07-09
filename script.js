@@ -1,0 +1,1 @@
+alert("Preludio dos Heroís!");
